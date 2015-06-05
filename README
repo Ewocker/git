@@ -1,0 +1,7 @@
+README
+Makefile
+Extrema.java
+
+This program will find the max and min of an array
+	*you can change the element of the array in the Java source file(Extrema.java)
+	 it is located in the main method
