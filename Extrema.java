@@ -13,6 +13,10 @@ public class Extrema{
 		int[] B = { -1, 2, 6, 3, 9, 2, -3, -2, 11, 5, 7 };
 		System.out.println( "max = " + maxArray(B, 0, B.length-1) );
 		System.out.println( "min = " + minArray(B, 0, B.length-1) );
+		System.out.println( "I just wanna test what will change if I modify my file." );
+		System.out.println( "Sencond changes" );
+		//third chang
+		//forth change( I delete a letter in third change)
 	}
 	
 	static int maxArray( int[] A, int p, int r){
