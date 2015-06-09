@@ -24,3 +24,6 @@ Extrema
 
 #ignore any .c or .f file
 *.[cf]
+
+#心情好才加的
+final
