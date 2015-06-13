@@ -22,8 +22,8 @@ Extrema
 #ignore any .class file
 *.class
 
-#ignore any .c or .f file
-*.[cf]
+#ignore any .h or .f file
+*.[hf]
 
 #心情好才加的
 final
